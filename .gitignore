@@ -1,0 +1,12 @@
+# Compiled executable
+*.exe
+
+# Build files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Runtime history
+data/history.txt
