@@ -1,0 +1,20 @@
+# Compiled executable
+*.exe
+
+# Build files
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# CMake
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Runtime calculation history
+data/history.txt
